@@ -1,3 +1,4 @@
+```c
 //Final Exam
 
 //For this final exam, you may use the text, your notes, and programs you have written, as well as PowerPoint slideshows used in class. 
@@ -84,3 +85,5 @@ float taxTotal(float total) // function definition to compute tax and final tota
     finalTotal = tax + total; // calculate final total
     return finalTotal; // returns value of finalTotal when called
 }
+
+```
